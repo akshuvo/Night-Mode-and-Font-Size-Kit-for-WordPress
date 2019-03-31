@@ -8,12 +8,12 @@ Requires PHP:
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Night Mode and Font Size Kit â€“ This plugin help to activate night mode and increase or decrease font size of your website.You can easily add night mode filter to whole website and adjust it to improve the readability of text, images and other elements, Protect eyes from hurting when the screen is too bright by dimming the light and font size increase/decrease
+Night Mode and Font Size Kit – This plugin help to activate night mode and increase or decrease font size of your website.You can easily add night mode filter to whole website and adjust it to improve the readability of text, images and other elements, Protect eyes from hurting when the screen is too bright by dimming the light and font size increase/decrease
 
 == Description ==
 
 
-<p><strong>Night Mode and Font Size Kit</strong> â€“ This plugin help to activate <strong>night mode</strong> and <strong>increase</strong> or <strong>decrease</strong> font size of your website.You can easily add night mode filter to whole website and adjust it to improve the readability of text, images and other elements, Protect eyes from hurting when the screen is too bright by dimming the light and font size increase/decrease</p>
+<p><strong>Night Mode and Font Size Kit</strong> – This plugin help to activate <strong>night mode</strong> and <strong>increase</strong> or <strong>decrease</strong> font size of your website.You can easily add night mode filter to whole website and adjust it to improve the readability of text, images and other elements, Protect eyes from hurting when the screen is too bright by dimming the light and font size increase/decrease</p>
 
 <h2><strong>Check How Night Mode and Font Size Kit Works</strong></h2>
 <p><img src="https://themevanilla.com/wp-content/uploads/2018/12/Night-Mode-and-Font-Size-Kit-for-WordPress.gif" alt="\\"></p>

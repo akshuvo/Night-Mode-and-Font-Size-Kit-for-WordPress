@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Night Mode and Font Size Kit for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-26 09:09+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: inc/nmfs-options-init.php:183
+msgid "Additional Colors (optional)"
+msgstr ""
+
+#: inc/nmfs-options-init.php:173
+msgid "Background Color"
+msgstr ""
+
+#: inc/nmfs-options-init.php:203
+msgid "Border Color"
+msgstr ""
+
+#: inc/nmfs-options-init.php:266
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/nmfs-options-init.php:174
+msgid "Default Background Color for Night Mode"
+msgstr ""
+
+#: inc/nmfs-options-init.php:165
+msgid "Default Text Color for Night Mode"
+msgstr ""
+
+#. Author of the plugin
+msgid "Devshuvo"
+msgstr ""
+
+#: inc/nmfs-options-init.php:247
+msgid "Extra Large Text Size"
+msgstr ""
+
+#: inc/nmfs-options-init.php:259
+msgid "Extras"
+msgstr ""
+
+#: inc/nmfs-options-init.php:260
+msgid "Extras Options for Advance Useages"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://plugins.themevanilla.com/nmfskit"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://themevanilla.com"
+msgstr ""
+
+#: inc/nmfs-options-init.php:210
+msgid "Image filter (Opacity)"
+msgstr ""
+
+#: inc/nmfs-options-init.php:211
+msgid ""
+"Know more about <a target=\"_blank\" href=\"https://css-tricks."
+"com/almanac/properties/f/filter/#article-header-id-6\"><strong>Image "
+"filters</strong></a>"
+msgstr ""
+
+#: inc/nmfs-options-init.php:236
+msgid "Large Text Size"
+msgstr ""
+
+#: inc/nmfs-options-init.php:189
+msgid "Link Color"
+msgstr ""
+
+#: inc/nmfs-options-init.php:196
+msgid "Link Hover Color"
+msgstr ""
+
+#: inc/nmfs-options-init.php:149
+msgid "Night Mode"
+msgstr ""
+
+#: inc/nmfs-options-init.php:33
+msgid "Night Mode and Font Size"
+msgstr ""
+
+#: inc/nmfs-options-init.php:25
+msgid "Night Mode and Font Size Kit"
+msgstr ""
+
+#. Name of the plugin
+msgid "Night Mode and Font Size Kit for WordPress"
+msgstr ""
+
+#: inc/nmfs-options-init.php:34
+msgid "Night Mode and Font Size Kit for WordPress Website"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Night Mode and Font Size Kit is the best solution to switch wordpress "
+"website between Night Mode and normal style smoothly to improve the "
+"readability of whole site.Font size option will help you increase and "
+"decrease your website text size."
+msgstr ""
+
+#: inc/nmfs-options-init.php:150
+msgid "Night Mode General Options"
+msgstr ""
+
+#: inc/nmfs-options-init.php:156
+msgid "Select Menu "
+msgstr ""
+
+#: inc/nmfs-options-init.php:157
+msgid "Select the navigation menu where you want to show"
+msgstr ""
+
+#: inc/nmfs-options-init.php:164
+msgid "Text Color"
+msgstr ""
+
+#: inc/nmfs-options-init.php:229
+msgid "Text Size"
+msgstr ""
+
+#: inc/nmfs-options-init.php:230
+msgid "Text Size Options"
+msgstr ""
+
+#: inc/nmfs-options-init.php:248
+msgid "Text size percentage for Extra Large"
+msgstr ""
+
+#: inc/nmfs-options-init.php:237
+msgid "Text size percentage for Large"
+msgstr ""
